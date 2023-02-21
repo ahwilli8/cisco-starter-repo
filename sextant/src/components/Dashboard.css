@@ -1,0 +1,17 @@
+.dashboard {
+  height: 100%;
+  width: 90%;
+  margin-left: 2.5%;
+
+  border-color: #2a9d8f;
+  border-style: groove;
+  border-width: 2.5px;
+  border-radius: 5px;
+}
+
+.dashboard_title {
+  margin-left: 1%;
+  color: #2a9d8f;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
